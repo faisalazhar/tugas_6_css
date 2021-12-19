@@ -1,0 +1,31 @@
+p.satu,p.dua,p.tiga{
+  background-color: #03e3fc;
+  width: 350px;
+  height: 50px;
+  font-size: 12px;
+  overflow: scroll;
+}
+
+p.satu{
+  border: 10px dotted red;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 25px;
+}
+
+p.dua{
+  border: 5px inset green;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 25px;
+}
+
+p.tiga{
+  border: 15px dashed blue;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 25px;
+}
